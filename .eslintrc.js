@@ -1,3 +1,5 @@
+/* eslint-disable quotes */
+/* eslint-disable quote-props */
 module.exports = {
   env: {
     browser: true,
